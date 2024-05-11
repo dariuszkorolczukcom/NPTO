@@ -11,7 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
+<<<<<<< HEAD
           href="https://google.com"
+=======
+          href="https://dariuszkorolczuk.com"
+>>>>>>> DariuszKorolczuk
           target="_blank"
           rel="noopener noreferrer"
         >
